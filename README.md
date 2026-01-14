@@ -1,6 +1,8 @@
 # Sanal Ayıklama Uygulaması (Factory I/O & Python)
 
-Bu depo, TIA Portal, Factory I/O ve Python kullanılarak geliştirilen sanal ayıklama (görüntü işleme ile nesne ayrıştırma) projesinin kaynak kodlarını ve teknik dokümantasyonunu içerir. \## Proje Tanımı
+Bu depo, TIA Portal, Factory I/O ve Python kullanılarak geliştirilen sanal ayıklama (görüntü işleme ile nesne ayrıştırma) projesinin kaynak kodlarını ve teknik dokümantasyonunu içerir. 
+
+## Proje Tanımı
 
 Proje, Factory I/O ortamındaki bir konveyör hattı üzerinde hareket eden mavi ve yeşil hammaddelerin simülasyon ekranından algılanarak ilgili iticiler (pusher) vasıtasıyla ayrıştırılmasını sağlar.
 
